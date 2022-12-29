@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/87345979/210020770-462a4990-ca4c-4e30-ada7-e56c7cbb5502.png)
 
 # My Solution
-  class Solution {
+    class Solution {
   public:
 
     int deleteGreatestValue(vector<vector<int>>& grid) {
@@ -23,4 +23,4 @@
 
         return solution+deleteGreatestValue(grid);
     }
-  };
+    };
