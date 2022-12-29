@@ -5,7 +5,7 @@
 
 # My Solution
     class Solution {
-  public:
+      public:
 
     int deleteGreatestValue(vector<vector<int>>& grid) {
         int solution = 0;
@@ -24,3 +24,8 @@
         return solution+deleteGreatestValue(grid);
     }
     };
+
+# Runtime
+![image](https://user-images.githubusercontent.com/87345979/210020979-412933b8-7a22-4114-a447-20ea454e75ae.png)
+
+# Memory
