@@ -29,3 +29,4 @@
 ![image](https://user-images.githubusercontent.com/87345979/210020979-412933b8-7a22-4114-a447-20ea454e75ae.png)
 
 # Memory
+![image](https://user-images.githubusercontent.com/87345979/210021034-bbc411a2-1f95-43b9-90c0-37d8599f0dc8.png)
